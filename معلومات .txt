@@ -1,0 +1,12 @@
+سيرفر التشغيل xampp مو نفس اللي درسنا عليه لونه اصفر 
+
+صفحة قائمة الطعام 
+http://localhost/progect/index.php
+
+
+صفحة دخول للمشرف 
+http://localhost/progect/admin_login.php
+
+اسم المستخدم admin 
+كلمة المرور 111
+
